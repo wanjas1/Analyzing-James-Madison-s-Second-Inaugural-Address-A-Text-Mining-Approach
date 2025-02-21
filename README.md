@@ -1,6 +1,7 @@
 # Analyzing-James-Madison-s-Second-Inaugural-Address-A-Text-Mining-Approach
 
 Project Summary
+
 This project involves retrieving, preprocessing, visualizing, and interpreting web-based presidential speech data using Python. Specifically, we analyze James Madison's second inaugural address from the Miller Center. The goal is to extract meaningful insights from the speech text through text processing techniques and visualization.
 
 Key Steps in the Analysis:
