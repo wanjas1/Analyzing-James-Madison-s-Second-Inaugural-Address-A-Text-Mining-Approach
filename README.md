@@ -2,6 +2,8 @@
 
 ![speech](https://github.com/user-attachments/assets/d1e59f2d-1ea7-41f4-84b6-c4bd141a33cb)
 
+Photo by <a href="https://unsplash.com/@nhuenerfuerst?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Nils Huenerfuerst</a> on <a href="https://unsplash.com/photos/a-podium-with-an-american-flag-and-the-white-house-xkq3mbthlh0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
 Project Summary
 
 This project involves retrieving, preprocessing, visualizing, and interpreting web-based presidential speech data using Python. Specifically, we analyze James Madison's second inaugural address from the Miller Center. The goal is to extract meaningful insights from the speech text through text processing techniques and visualization.
