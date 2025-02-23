@@ -1,18 +1,20 @@
 # Analyzing-James-Madison-s-Second-Inaugural-Address-A-Text-Mining-Approach
 
+![speech](https://github.com/user-attachments/assets/d1e59f2d-1ea7-41f4-84b6-c4bd141a33cb)
+
 Project Summary
 
 This project involves retrieving, preprocessing, visualizing, and interpreting web-based presidential speech data using Python. Specifically, we analyze James Madison's second inaugural address from the Miller Center. The goal is to extract meaningful insights from the speech text through text processing techniques and visualization.
 
 Key Steps in the Analysis:
 
-Data Retrieval – The speech text is extracted from the Miller Center website.
+> Data Retrieval – The speech text is extracted from the Miller Center website.
 
-Text Preprocessing – The speech is cleaned by removing unnecessary text elements, such as headers, punctuation, and line breaks.
+> Text Preprocessing – The speech is cleaned by removing unnecessary text elements, such as headers, punctuation, and line breaks.
 
-Word Cloud Generation – A word cloud visualization is created to highlight the most frequently used words in the speech. To ensure reproducibility, a random seed is set, and the word limit is capped at 250.
+> Word Cloud Generation – A word cloud visualization is created to highlight the most frequently used words in the speech. To ensure reproducibility, a random seed is set, and the word limit is capped at 250.
 
-Interpretation & Analysis – The word cloud is analyzed in the context of Madison's speech themes, including patriotism, national unity, and the War of 1812. The effectiveness of the word cloud in summarizing the speech is also evaluated.
+> Interpretation & Analysis – The word cloud is analyzed in the context of Madison's speech themes, including patriotism, national unity, and the War of 1812. The effectiveness of the word cloud in summarizing the speech is also evaluated.
 
 Key Insights
 
